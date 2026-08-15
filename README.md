@@ -82,7 +82,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 ✅ Bookings stored and verified in MongoDB
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharathyk2004/grand-residency-k8s)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavibhat/grand-residency-k8s)
 
 ---
 
@@ -99,7 +99,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 ✅ Nginx Ingress for HTTP routing
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharathyk2004/kubernetes-starter)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavibhat/kubernetes-starter)
 
 ---
 
@@ -117,7 +117,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 ```
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharathyk2004/docker-starter)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/bharathyk2004/hotel-quote-api)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/kavibhat/hotel-quote-api)
 
 ---
 
