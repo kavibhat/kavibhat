@@ -128,9 +128,9 @@ goal:       "Junior Cloud / DevOps Engineer"
 
 ![Bharathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavibhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathyk2004&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavibhat&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharathyk2004&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavibhat&theme=tokyonight&hide_border=true)
 
 </div>
 
