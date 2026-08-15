@@ -25,7 +25,6 @@ goal:       "Junior Cloud / DevOps Engineer"
 ```
 
 - 🔭 Currently building a **3-tier hotel booking system** on Kubernetes
-- 🌱 Studying **AWS Solutions Architect Associate (SAA-C03)**
 - 💡 Background in **DNS, VPN, Firewall & Network Troubleshooting** — maps directly to AWS VPC, Security Groups & Route 53
 - 🚀 Transitioning from **L2 Network Support → Cloud Engineering**
 - 📫 Reach me at **bharathyk2004@gmail.com**
