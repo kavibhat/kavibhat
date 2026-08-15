@@ -70,7 +70,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 
 ## 🚀 Featured Projects
 
-### 1. 🏨 Grand Residency — 3-Tier Architecture on Kubernetes
+### 1. 🏨 Residency-MERN — 3-Tier Architecture on Kubernetes
 > Full-stack hotel booking system deployed on Kubernetes with React frontend, Node.js API and MongoDB database running as separate Kubernetes tiers
 
 **Tech:** React · Node.js · MongoDB · Docker · Kubernetes · Nginx Ingress · StatefulSet · HPA
@@ -87,24 +87,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 
 ---
 
-### 2. 🐳 Grand Residency — MERN Stack with Docker Compose
-> Hotel booking system with real data storage — React frontend, Express REST API and MongoDB containerized with Docker Compose
-
-**Tech:** React · Node.js · Express · MongoDB · Docker Compose · Nginx
-
-```
-✅ Full-stack MERN application
-✅ Booking form saves real data to MongoDB
-✅ REST API (Create, Read, Delete bookings)
-✅ Multi-service Docker Compose networking
-✅ Data persisted via Docker volume
-```
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharathyk2004/grand-residency-mern)
-
----
-
-### 3. ☸️ Kubernetes Starter — Orchestrated API on Minikube
+### 2. ☸️ Kubernetes Starter — Orchestrated API on Minikube
 > Node.js API deployed on Kubernetes demonstrating Deployments, Services, ConfigMaps, HPA auto-scaling, Ingress and zero-downtime rolling updates
 
 **Tech:** Kubernetes · Docker · Node.js · Nginx Ingress · HPA · ConfigMap
@@ -121,7 +104,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 
 ---
 
-### 4. 🐋 Docker Starter — Containerized Node.js API
+### 3. 🐋 Docker Starter — Containerized Node.js API
 > Multi-stage Dockerfile reducing image size by 84%, Nginx reverse proxy, Docker Compose multi-service setup with health checks
 
 **Tech:** Docker · Node.js · Nginx · Docker Compose
@@ -143,7 +126,7 @@ goal:       "Junior Cloud / DevOps Engineer"
 
 <div align="center">
 
-![Bharathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathyk2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Bharathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavibhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathyk2004&layout=compact&theme=tokyonight&hide_border=true)
 
